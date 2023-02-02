@@ -1,0 +1,15 @@
+h1{
+    background-color: teal;
+    color:white;
+}
+
+.heading{
+    text-align: center;
+    border: 5px solid salmon;
+}
+
+
+.selectHeading{
+    text-align: end;
+    border: 5px solid red;
+}
